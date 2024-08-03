@@ -1,1 +1,1 @@
-# 1020-jothika-BME-KVCET
+# 1020-jothika-java-project
